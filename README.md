@@ -1,0 +1,2 @@
+# ScrapydDeploy_template
+Scrapyd批量部署模版
