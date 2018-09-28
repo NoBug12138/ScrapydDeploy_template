@@ -1,2 +1,3 @@
-# ScrapydDeploy_template
-Scrapyd批量部署模版
+# ScrapydDeploy
+
+Scrapyd Deploy Template for Azure
